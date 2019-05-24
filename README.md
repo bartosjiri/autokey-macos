@@ -1,6 +1,21 @@
 # AutoKey scripts for macOS-like shortcuts
 A collection of scripts for Autokey that emulate macOS style keyboard shortcuts in Linux and X11.
 
+## Included shortcuts
+Command | Key combination
+--- | --- 
+Copy | <kbd>cmd</kbd>+<kbd>c</kbd>
+Cut | <kbd>cmd</kbd>+<kbd>x</kbd>
+Find | <kbd>cmd</kbd>+<kbd>f</kbd>
+New | <kbd>cmd</kbd>+<kbd>n</kbd>
+New tab | <kbd>cmd</kbd>+<kbd>t</kbd>
+Paste | <kbd>cmd</kbd>+<kbd>v</kbd>
+Redo | <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>z</kbd>
+Replace | <kbd>cmd</kbd>+<kbd>r</kbd>
+Save | <kbd>cmd</kbd>+<kbd>s</kbd>
+Select all | <kbd>cmd</kbd>+<kbd>a</kbd>
+Undo | <kbd>cmd</kbd>+<kbd>z</kbd>
+
 
 ## How to use
 1. Install AutoKey using your package manager or following [AutoKey installation](https://github.com/autokey/autokey#installation) instructions.
