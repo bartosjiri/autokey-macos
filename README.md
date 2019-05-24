@@ -11,6 +11,7 @@ Go to | <kbd>cmd</kbd>+<kbd>l</kbd>
 New | <kbd>cmd</kbd>+<kbd>n</kbd>
 New tab | <kbd>cmd</kbd>+<kbd>t</kbd>
 Paste | <kbd>cmd</kbd>+<kbd>v</kbd>
+Quit | <kbd>cmd</kbd>+<kbd>q</kbd>
 Redo | <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>z</kbd>
 Replace | <kbd>cmd</kbd>+<kbd>r</kbd>
 Save | <kbd>cmd</kbd>+<kbd>s</kbd>
