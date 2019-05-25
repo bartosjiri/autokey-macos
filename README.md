@@ -7,7 +7,7 @@ There are 2 different script packages available:
 - For unmodified command keys layout (where <kbd>ctrl</kbd> outputs `control` and <kbd>cmd</kbd> outputs `super`)
 - For modified command keys layout (where <kbd>ctrl</kbd> outputs `super` and <kbd>cmd</kbd> outputs `control`)
 
-   ⮡ Learn how to [modify the layout](aaa).
+   ⮡ Learn how to [modify the layout](https://gist.github.com/pryetranka/da83eb003bc9b1d7aeb8bd6136edbc62).
 
 ### Using unmodified command keys layout
 1. Install AutoKey using your package manager or following [AutoKey installation](https://github.com/autokey/autokey#installation) instructions.
