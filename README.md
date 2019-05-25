@@ -22,19 +22,21 @@ There are 2 different script packages available:
 
 4. Enable AutoKey at login: `AutoKey -> Edit -> Preferences -> Automatically start Autokey at login`.
 
->
+
 ### Using modified command keys layout
 1. Install AutoKey using your package manager or following [AutoKey installation](https://github.com/autokey/autokey#installation) instructions.
 
-2. Clone or download the `macOS-switched` folder to `~/.config/autokey/data/`.
+2. Unbind AutoKey's configuration hotkey in `AutoKey -> Edit -> Preferences -> Special hotkeys -> Show configuration window using a hotkey -> Clear`
 
-3. Modify individual scripts in AutoKey to prevent an interference with default terminal shortcuts:
+3. Clone or download the `macOS-switched` folder to `~/.config/autokey/data/`.
+
+4. Modify individual scripts in AutoKey to prevent an interference with default terminal shortcuts:
 
    Replace the `'xfce4-terminal.Xfce4-terminal'` part with the terminal class name of your choice.
 
    *To get the class name, open terminal, then open AutoKey, click on `Window Filter -> Detect Window Properties -> click on terminal window` and AutoKey will show you the name as Window class. Don't forget to cancel the Window Filter settings.*  
 
-4. Enable AutoKey at login: `AutoKey -> Edit -> Preferences -> Automatically start Autokey at login`.
+5. Enable AutoKey at login: `AutoKey -> Edit -> Preferences -> Automatically start Autokey at login`.
 
 
 ## Limitations
