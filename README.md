@@ -7,7 +7,7 @@ There are 2 different script packages available:
 - For unmodified command keys layout (where <kbd>ctrl</kbd> inputs `control` and <kbd>cmd</kbd> inputs `super`)
 - For modified command keys layout (where <kbd>ctrl</kbd> inputs `super` and <kbd>cmd</kbd> inputs `control`)
 
-   ⮡ Learn how to [modify the layout?](aaa).
+   ⮡ Learn how to [modify the layout](aaa).
 
 ### Using unmodified command keys layout
 1. Install AutoKey using your package manager or following [AutoKey installation](https://github.com/autokey/autokey#installation) instructions.
