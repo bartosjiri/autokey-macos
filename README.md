@@ -26,7 +26,7 @@ There are 2 different script packages available:
 ### Using modified command keys layout
 1. Install AutoKey using your package manager or following [AutoKey installation](https://github.com/autokey/autokey#installation) instructions.
 
-2. Unbind AutoKey's configuration hotkey in `AutoKey -> Edit -> Preferences -> Special hotkeys -> Show configuration window using a hotkey -> Clear`
+2. Unbind AutoKey's configuration hotkey: `AutoKey -> Edit -> Preferences -> Special hotkeys -> Show configuration window using a hotkey -> Clear`
 
 3. Clone or download the `macOS-switched` folder to `~/.config/autokey/data/`.
 
