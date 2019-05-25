@@ -4,8 +4,8 @@ A collection of scripts for Autokey that emulate macOS style keyboard shortcuts 
 
 ## How to use
 There are 2 different script packages available:
-- For unmodified command keys layout (where <kbd>ctrl</kbd> inputs `control` and <kbd>cmd</kbd> inputs `super`)
-- For modified command keys layout (where <kbd>ctrl</kbd> inputs `super` and <kbd>cmd</kbd> inputs `control`)
+- For unmodified command keys layout (where <kbd>ctrl</kbd> outputs `control` and <kbd>cmd</kbd> outputs `super`)
+- For modified command keys layout (where <kbd>ctrl</kbd> outputs `super` and <kbd>cmd</kbd> outputs `control`)
 
    ⮡ Learn how to [modify the layout](aaa).
 
