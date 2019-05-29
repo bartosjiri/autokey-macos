@@ -1,5 +1,5 @@
 # AutoKey scripts for macOS-like shortcuts
-A collection of scripts for Autokey that emulate macOS style keyboard shortcuts in Linux and X11.
+A collection of scripts for Autokey that emulate macOS styled keyboard commands/sshortcuts in Linux and X11.
 
 
 ## How to use
